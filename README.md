@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ketanz40
+- 👋 Hi, I’m Ketan
 - 👀 I’m interested in Machine Learning/Full-Stack skills
 - 🌱 I’m currently learning everything software engineering related at Cal Poly Pomona
 - 💞️ I’m looking to collaborate on 
